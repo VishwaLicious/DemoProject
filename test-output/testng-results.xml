@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="42" started-at="2017-11-10T03:22:20Z" finished-at="2017-11-10T03:22:20Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="42" started-at="2017-11-10T03:22:20Z" finished-at="2017-11-10T03:22:20Z">
+      <class name="com.test.BankTest">
+        <test-method status="PASS" signature="createAccount(java.lang.String, java.lang.String)[pri:0, instance:com.test.BankTest@457e2f02]" name="createAccount" duration-ms="9" started-at="2017-11-10T08:52:20Z" data-provider="getData" finished-at="2017-11-10T08:52:20Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[acc1]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[pass1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createAccount -->
+        <test-method status="PASS" signature="createAccount(java.lang.String, java.lang.String)[pri:0, instance:com.test.BankTest@457e2f02]" name="createAccount" duration-ms="1" started-at="2017-11-10T08:52:20Z" data-provider="getData" finished-at="2017-11-10T08:52:20Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[acc2]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[pass2]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createAccount -->
+        <test-method status="PASS" signature="createAccount(java.lang.String, java.lang.String)[pri:0, instance:com.test.BankTest@457e2f02]" name="createAccount" duration-ms="1" started-at="2017-11-10T08:52:20Z" data-provider="getData" finished-at="2017-11-10T08:52:20Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[acc3]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[pass3]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createAccount -->
+        <test-method status="PASS" signature="createAccount(java.lang.String, java.lang.String)[pri:0, instance:com.test.BankTest@457e2f02]" name="createAccount" duration-ms="1" started-at="2017-11-10T08:52:20Z" data-provider="getData" finished-at="2017-11-10T08:52:20Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[acc4]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[pass4]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createAccount -->
+        <test-method status="PASS" signature="createAccount(java.lang.String, java.lang.String)[pri:0, instance:com.test.BankTest@457e2f02]" name="createAccount" duration-ms="0" started-at="2017-11-10T08:52:20Z" data-provider="getData" finished-at="2017-11-10T08:52:20Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[acc5]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[pass5]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createAccount -->
+      </class> <!-- com.test.BankTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
